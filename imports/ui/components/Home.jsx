@@ -18,7 +18,7 @@ export default class Home extends React.Component {
 
   render() {
     return (
-      <div>
+      <div className="col-xs-12">
         <h3>Clicked {this.state.clickCounter} times</h3>
         <RaisedButton label="Click Me"
                       primary={true}
