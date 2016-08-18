@@ -19,6 +19,9 @@ Unstyled boilerplate here: https://github.com/alonoslav/meteor-react-boilerplate
 - react-meteor-data
 - kadira:flow-router
 
+## How to run
+
+You can read it in this [guide](https://github.com/alonoslav/meteor-react-boilerplate#how-to-run)
 
 ## Future works
 
