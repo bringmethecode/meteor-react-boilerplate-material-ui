@@ -2,7 +2,9 @@
 
 Starter kit for Meteor with React and MaterialUI package.
 
-Used packages:
+Unstyled boilerplate here: https://github.com/alonoslav/meteor-react-boilerplate
+
+## Used packages:
 
 #### Npm
 
